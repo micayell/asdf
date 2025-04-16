@@ -1,5 +1,0 @@
-git 연습
-git 좀 어렵다
-cd adsf
-git add .
-git commit -m '수정'
